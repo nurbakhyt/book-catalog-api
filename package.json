@@ -1,0 +1,17 @@
+{
+  "name": "book-catalog-api",
+  "description": "Book catalog API by Hapi.js",
+  "version": "1.0.0",
+  "author": "Nurbakhyt Kussanov",
+  "private": true,
+  "dependencies": {
+    "hapi": "16.3.x",
+    "joi": "10.5.x",
+    "mongoose": "4.10.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bootstrap.js",
+    "watch": "nodemon bootstrap.js"
+  }
+}
