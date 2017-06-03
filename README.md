@@ -2,7 +2,7 @@
 
 > Book catalog API by Hapi.js
 
-> Vue.js frontend app [here](https://github.com/nurbakhyt)
+> Vue.js frontend app [here](https://github.com/nurbakhyt/book-catalog-app)
 
 ## Build Setup
 
