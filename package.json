@@ -7,11 +7,12 @@
   "dependencies": {
     "hapi": "16.3.x",
     "joi": "10.5.x",
-    "mongoose": "4.10.x"
+    "mongoose": "4.10.x",
+    "nodemon": "^1.17.2"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node bootstrap.js",
-    "watch": "nodemon bootstrap.js"
+    "watch": "./node_modules/.bin/nodemon bootstrap.js"
   }
 }
